@@ -1,0 +1,24 @@
+hamburguesa;25000
+papas;1500
+pizza;20000
+pasta;17500
+ensalada;22000
+gaseosa;4000
+agua;3000
+sopa;15000
+sushi;25000
+baby beef;30000
+pechuga a la plancha;24000
+arroz thai;26000
+ceviche;18000
+risotto;31000
+wrap de pollo;15000
+wrap de lomo;22000
+ensalada mexicana;20900
+papas medianas;5500
+papas grandes;6900
+papas en casco medianas;5500
+papas en casco grandes;6900
+vino;12000
+cerveza;9000
+coctel;14000

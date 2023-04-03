@@ -1,0 +1,3 @@
+estándar;450000;1 cama doble;2 personas;1 baño; no tiene cocina integrada; vista al interior; no cuenta con balcón
+suite;600000;1 cama doble y 1 sencilla;1 baño; si tiene cocina integrada; vista al exterior; no cuenta con balcón
+suite doble;900000;2 camas dobles y 1 sencilla;2 baños; si tiene cocina integrada; vista al exterior; tiene balcón

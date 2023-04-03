@@ -1,0 +1,6 @@
+tour piedra del peñón;30000
+recorrido laguna;25000
+visita playas Topocoro;40000
+caminata al sendero Muisca;20000
+visita al parque Inca;15000
+visita a las cuevas Wayuu;17000
