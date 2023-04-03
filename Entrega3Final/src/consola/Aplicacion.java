@@ -1,3 +1,8 @@
+//Manuela Lizcano Carrillo - 202122826 - m.lizcanoc
+//Laura Calderon Molina - 202122045 - l.calderonm
+//Mariana Pineda Miranda - 202123330 - m.pinedam
+
+
 package consola;
 
 import java.io.BufferedReader;
