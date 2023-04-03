@@ -1,0 +1,7 @@
+hamburguesa;25000
+papas;1500
+pizza;20000
+pasta;17500
+ensalada;22000
+gaseosa;4000
+agua;3000

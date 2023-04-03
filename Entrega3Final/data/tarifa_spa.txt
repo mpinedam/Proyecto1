@@ -1,0 +1,8 @@
+masaje deportivo;40000
+masaje Tailandés;45000
+drenaje linfático;60000
+masaje Sueco;50000
+masaje Shiatsu;52000
+aromaterapia;45000
+chocolaterapia;45000
+circuito de agua;40000
